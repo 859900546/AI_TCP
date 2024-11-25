@@ -1,0 +1,102 @@
+﻿  AI_TCP.cpp
+C:\Users\85990\source\repos\AI_TCP\AI_TCP\setting.h(19,28): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\85990\source\repos\AI_TCP\AI_TCP\setting.h(20,21): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\85990\source\repos\AI_TCP\AI_TCP\setting.h(23,23): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\85990\source\repos\AI_TCP\AI_TCP\setting.h(27,37): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\85990\source\repos\AI_TCP\AI_TCP\setting.h(31,30): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\85990\source\repos\AI_TCP\AI_TCP\setting.h(32,41): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\85990\source\repos\AI_TCP\AI_TCP\setting.h(34,19): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\85990\source\repos\AI_TCP\AI_TCP\setting.h(37,22): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\85990\source\repos\AI_TCP\AI_TCP\setting.h(42,33): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\85990\source\repos\AI_TCP\AI_TCP\setting.h(44,26): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\85990\source\repos\AI_TCP\AI_TCP\setting.h(47,19): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\85990\source\repos\AI_TCP\AI_TCP\setting.h(50,22): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\85990\source\repos\AI_TCP\AI_TCP\setting.h(52,20): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\85990\source\repos\AI_TCP\AI_TCP\setting.h(53,33): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\85990\source\repos\AI_TCP\AI_TCP\setting.h(56,24): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\85990\source\repos\AI_TCP\AI_TCP\setting.h(61,19): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\85990\source\repos\AI_TCP\AI_TCP\setting.h(64,22): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\85990\source\repos\AI_TCP\AI_TCP\setting.h(66,33): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\85990\source\repos\AI_TCP\AI_TCP\setting.h(69,24): warning C4305: “初始化”: 从“double”到“float”截断
+  ActionStatus.cpp
+C:\Users\85990\source\repos\AI_TCP\AI_TCP\setting.h(19,28): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\85990\source\repos\AI_TCP\AI_TCP\setting.h(20,21): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\85990\source\repos\AI_TCP\AI_TCP\setting.h(23,23): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\85990\source\repos\AI_TCP\AI_TCP\setting.h(27,37): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\85990\source\repos\AI_TCP\AI_TCP\setting.h(31,30): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\85990\source\repos\AI_TCP\AI_TCP\setting.h(32,41): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\85990\source\repos\AI_TCP\AI_TCP\setting.h(34,19): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\85990\source\repos\AI_TCP\AI_TCP\setting.h(37,22): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\85990\source\repos\AI_TCP\AI_TCP\setting.h(42,33): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\85990\source\repos\AI_TCP\AI_TCP\setting.h(44,26): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\85990\source\repos\AI_TCP\AI_TCP\setting.h(47,19): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\85990\source\repos\AI_TCP\AI_TCP\setting.h(50,22): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\85990\source\repos\AI_TCP\AI_TCP\setting.h(52,20): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\85990\source\repos\AI_TCP\AI_TCP\setting.h(53,33): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\85990\source\repos\AI_TCP\AI_TCP\setting.h(56,24): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\85990\source\repos\AI_TCP\AI_TCP\setting.h(61,19): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\85990\source\repos\AI_TCP\AI_TCP\setting.h(64,22): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\85990\source\repos\AI_TCP\AI_TCP\setting.h(66,33): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\85990\source\repos\AI_TCP\AI_TCP\setting.h(69,24): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\85990\source\repos\AI_TCP\AI_TCP\ActionStatus.cpp(265,77): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+C:\Users\85990\source\repos\AI_TCP\AI_TCP\ActionStatus.cpp(380,32): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\85990\source\repos\AI_TCP\AI_TCP\ActionStatus.cpp(382,35): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  Move.cpp
+C:\Users\85990\source\repos\AI_TCP\AI_TCP\setting.h(19,28): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\85990\source\repos\AI_TCP\AI_TCP\setting.h(20,21): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\85990\source\repos\AI_TCP\AI_TCP\setting.h(23,23): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\85990\source\repos\AI_TCP\AI_TCP\setting.h(27,37): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\85990\source\repos\AI_TCP\AI_TCP\setting.h(31,30): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\85990\source\repos\AI_TCP\AI_TCP\setting.h(32,41): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\85990\source\repos\AI_TCP\AI_TCP\setting.h(34,19): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\85990\source\repos\AI_TCP\AI_TCP\setting.h(37,22): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\85990\source\repos\AI_TCP\AI_TCP\setting.h(42,33): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\85990\source\repos\AI_TCP\AI_TCP\setting.h(44,26): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\85990\source\repos\AI_TCP\AI_TCP\setting.h(47,19): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\85990\source\repos\AI_TCP\AI_TCP\setting.h(50,22): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\85990\source\repos\AI_TCP\AI_TCP\setting.h(52,20): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\85990\source\repos\AI_TCP\AI_TCP\setting.h(53,33): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\85990\source\repos\AI_TCP\AI_TCP\setting.h(56,24): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\85990\source\repos\AI_TCP\AI_TCP\setting.h(61,19): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\85990\source\repos\AI_TCP\AI_TCP\setting.h(64,22): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\85990\source\repos\AI_TCP\AI_TCP\setting.h(66,33): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\85990\source\repos\AI_TCP\AI_TCP\setting.h(69,24): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\85990\source\repos\AI_TCP\AI_TCP\Move.cpp(22,19): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\85990\source\repos\AI_TCP\AI_TCP\Move.cpp(48,16): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\85990\source\repos\AI_TCP\AI_TCP\Move.cpp(49,16): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\85990\source\repos\AI_TCP\AI_TCP\Move.cpp(68,27): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\85990\source\repos\AI_TCP\AI_TCP\Move.cpp(80,13): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\85990\source\repos\AI_TCP\AI_TCP\Move.cpp(98,22): warning C4305: “*=”: 从“double”到“float”截断
+C:\Users\85990\source\repos\AI_TCP\AI_TCP\Move.cpp(121,43): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\85990\source\repos\AI_TCP\AI_TCP\Move.cpp(126,31): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\85990\source\repos\AI_TCP\AI_TCP\Move.cpp(149,51): warning C4804: “<”: 在操作中使用类型“bool”不安全
+C:\Users\85990\source\repos\AI_TCP\AI_TCP\Move.cpp(162,43): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\85990\source\repos\AI_TCP\AI_TCP\Move.cpp(189,43): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\85990\source\repos\AI_TCP\AI_TCP\Move.cpp(195,33): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\85990\source\repos\AI_TCP\AI_TCP\Move.cpp(215,43): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\85990\source\repos\AI_TCP\AI_TCP\Move.cpp(228,15): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\85990\source\repos\AI_TCP\AI_TCP\Move.cpp(238,35): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\85990\source\repos\AI_TCP\AI_TCP\Move.cpp(243,25): warning C4244: “-=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\85990\source\repos\AI_TCP\AI_TCP\Move.cpp(244,31): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\85990\source\repos\AI_TCP\AI_TCP\Move.cpp(381,16): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\85990\source\repos\AI_TCP\AI_TCP\Move.cpp(382,16): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\85990\source\repos\AI_TCP\AI_TCP\Move.cpp(385,10): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\85990\source\repos\AI_TCP\AI_TCP\Move.cpp(386,10): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\85990\source\repos\AI_TCP\AI_TCP\Move.cpp(417,27): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\85990\source\repos\AI_TCP\AI_TCP\Move.cpp(434,24): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\85990\source\repos\AI_TCP\AI_TCP\Move.cpp(454,38): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\85990\source\repos\AI_TCP\AI_TCP\Move.cpp(458,36): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\85990\source\repos\AI_TCP\AI_TCP\Move.cpp(487,31): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\85990\source\repos\AI_TCP\AI_TCP\Move.cpp(514,43): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\85990\source\repos\AI_TCP\AI_TCP\Move.cpp(541,43): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\85990\source\repos\AI_TCP\AI_TCP\Move.cpp(546,33): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\85990\source\repos\AI_TCP\AI_TCP\Move.cpp(566,43): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\85990\source\repos\AI_TCP\AI_TCP\Move.cpp(571,16): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+C:\Users\85990\source\repos\AI_TCP\AI_TCP\Move.cpp(265,38): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+LINK : warning LNK4075: 忽略“/INCREMENTAL”(由于“/LTCG”规范)
+  正在生成代码
+  0 of 793 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  AI_TCP.vcxproj -> C:\Users\85990\source\repos\AI_TCP\x64\Release\AI_TCP.exe
